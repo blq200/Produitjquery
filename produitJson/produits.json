@@ -1,0 +1,107 @@
+[
+       {
+           "Id":"1234",
+           "Désignation":"Huile de Jojoba",
+           "Prix":"4.90€",
+           "Catégorie":"Cheveux trés secs",
+           "Disponibilité":["Maroc","Germany","Canada","USA", "Chine","Russie"],
+           "Fournisseur":["L'Oreal","le siège social est 14 rue Royale - 75008 Paris"]
+
+       },
+       {
+        "Id":"2567",
+        "Désignation":"Huile de fleurs",
+        "Prix":"4.40€",
+        "Catégorie":"Cheveux secs",
+        "Disponibilité":["Maroc","Germany","Canada","USA", "Chine","Russie"],
+        "Fournisseur":["L'Oreal","le siège social est 14 rue Royale - 75008 Paris"]
+
+       },
+       {
+        "Id":"8790",
+        "Désignation":"Huile de Cumin Noir",
+        "Prix":"2.50€",
+        "Catégorie":"Cheveux lisse",
+        "Disponibilité":["Maroc","Germany","Canada","USA", "Chine","Russie"],
+        "Fournisseur":["L'Oreal","le siège social est 14 rue Royale - 75008 Paris"]
+
+       },
+        {
+        "Id":"1095",
+        "Désignation":"Protéines de Riz",
+        "Prix":"8.40€",
+        "Catégorie":"Cheveux Doux",
+        "Disponibilité":["France","Canada","USA", "Spain"],
+        "Fournisseur":["LÉA NATURE"," 99-101 Rue de Sèvres, 75006 Paris, France"]
+        },
+        {
+            "Id":"2508",
+            "Désignation":"Céramides d'Argan",
+            "Prix":"4.48€",
+            "Catégorie":"Cheveux Nourris",
+            "Disponibilité":["France","Canada","USA", "Spain"],
+            "Fournisseur":["LÉA NATURE"," 99-101 Rue de Sèvres, 75006 Paris, France"]
+            },
+        {
+            "Id":"4628",
+            "Désignation":"Huile essentielle de Niaouli",
+            "Prix":"3.78€",
+            "Catégorie":"Cheveux normaux à fragilisés",
+            "Disponibilité":["France","Canada","USA", "Spain"],
+            "Fournisseur":["LÉA NATURE"," 99-101 Rue de Sèvres, 75006 Paris, France"]
+        
+            },
+        {
+        "Id":"9160",
+        "Désignation":"Argan Oil",
+        "Prix":"2.91€",
+        "Catégorie":"",
+        "Disponibilité":["Syrie","Canada","USA", "Oman","UE","Spain"],
+        "Fournisseur":["Herbal Essences"," Av. de Bruselas, 24, 28108 Alcobendas, Madrid, Espagne"]
+
+        },
+        {
+            "Id":"1059",
+            "Désignation":"Coconut Milk",
+            "Prix":"4.49€",
+            "Catégorie":"",
+            "Disponibilité":["Syrie","Canada","USA", "Oman","UE","Oman","Spain"],
+            "Fournisseur":["Herbal Essences"," Av. de Bruselas, 24, 28108 Alcobendas, Madrid, Espagne"]
+    
+            },
+        {
+            "Id":"6439",
+            "Désignation":"Arbica Coffee Fruit",
+            "Prix":"3.00€",
+            "Catégorie":"",
+            "Disponibilité":["Syrie","Canada","USA", "Oman","UE","Spain"],
+            "Fournisseur":["Herbal Essences"," Av. de Bruselas, 24, 28108 Alcobendas, Madrid, Espagne"]
+        
+            },
+            {
+                "Id":"0934",
+                "Désignation":"Gassoul",
+                "Prix":"2.61€",
+                "Catégorie":"Tous types de cheveux",
+                "Disponibilité":["France","Maroc","USA","UE"],
+                "Fournisseur":["Cadum","281 RUE SAINT HONORE 75008 PARIS 8"]
+        
+                },
+                {
+                    "Id":"1500",
+                    "Désignation":"Huile d'Avocat",
+                    "Prix":"3.30€",
+                    "Catégorie":"Cheveux ondulés",
+                    "Disponibilité":["France","Maroc","USA","UE"],
+                    "Fournisseur":["Cadum","281 RUE SAINT HONORE 75008 PARIS 8"]
+            
+                    },
+                {
+                    "Id":"2097",
+                    "Désignation":"Gelée Royale",
+                    "Prix":"3.50€",
+                    "Catégorie":"Cheveux abimès & fragilisés",
+                    "Disponibilité":["France","Maroc","USA","UE"],
+                    "Fournisseur":["Cadum","281 RUE SAINT HONORE 75008 PARIS 8"]
+                }
+        ]
